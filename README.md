@@ -1,1 +1,1 @@
-# GPT-3.5-finetuning-with-Embeddings
+# GPT-finetuning-with-Embeddings
